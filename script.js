@@ -224,7 +224,3 @@ report.appendChild(footer);
                 confettiElement.appendChild(confettiPiece);
             }
         }
-
-
-
-
